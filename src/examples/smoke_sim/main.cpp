@@ -416,7 +416,8 @@ int main(int argc, char* argv[]) {
     int exampleNum = 1;
     std::string logFilename = APP_NAME ".log";
     std::string outputDir = APP_NAME "_output";
-    std::string format = "tga";
+    //std::string format = "tga";
+    std::string format = "vol";
 
     // Parsing
     auto parser =
