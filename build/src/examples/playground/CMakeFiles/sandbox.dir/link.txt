@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/sandbox.dir/main.cpp.o CMakeFiles/sandbox.dir/my_physics_solver.cpp.o -o ../../../bin/sandbox  -pthread ../../../lib/libjet.a -pthread 

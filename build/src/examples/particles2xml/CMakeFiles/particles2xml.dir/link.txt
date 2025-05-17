@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/particles2xml.dir/main.cpp.o -o ../../../bin/particles2xml  -pthread ../../../lib/libjet.a ../../../lib/libpystring.a -pthread 

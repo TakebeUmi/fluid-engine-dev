@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/sph_sim.dir/main.cpp.o -o ../../../bin/sph_sim  -pthread ../../../lib/libjet.a ../../../lib/libpystring.a -pthread 

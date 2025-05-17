@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/level_set_liquid_sim.dir/main.cpp.o -o ../../../bin/level_set_liquid_sim  -pthread ../../../lib/libjet.a ../../../lib/libpystring.a -pthread 

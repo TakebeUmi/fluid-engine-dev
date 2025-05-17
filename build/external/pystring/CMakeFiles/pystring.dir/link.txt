@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libpystring.a CMakeFiles/pystring.dir/pystring.cpp.o
+/usr/bin/ranlib ../../lib/libpystring.a

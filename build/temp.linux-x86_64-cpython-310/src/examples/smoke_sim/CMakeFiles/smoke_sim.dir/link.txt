@@ -1,0 +1,1 @@
+/usr/bin/c++ -DVERSION_INFO=\"1.3.3\" -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/smoke_sim.dir/main.cpp.o -o ../../../bin/smoke_sim  -pthread ../../../lib/libjet.a ../../../lib/libpystring.a -pthread 

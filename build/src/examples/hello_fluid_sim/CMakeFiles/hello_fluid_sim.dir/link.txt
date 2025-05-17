@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/hello_fluid_sim.dir/main.cpp.o -o ../../../bin/hello_fluid_sim  -pthread ../../../lib/libjet.a -pthread 
