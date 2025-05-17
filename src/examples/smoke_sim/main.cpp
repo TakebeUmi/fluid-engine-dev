@@ -458,7 +458,7 @@ int main(int argc, char* argv[]) {
     if (logFile) {
         Logging::setAllStream(&logFile);
     }
-
+//ここでケースのうちどれをやるか決めれる。デフォルトは1。
     switch (exampleNum) {
         case 1:
             runExample1(outputDir, resolutionX, numberOfFrames, format, fps);
